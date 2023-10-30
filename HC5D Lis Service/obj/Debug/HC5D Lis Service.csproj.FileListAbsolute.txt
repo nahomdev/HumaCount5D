@@ -1,0 +1,78 @@
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\HC5D Lis Service.exe.config
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\HC5D Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\HC5D Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.CopyComplete
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D_Lis_Service.Service1.resources
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.GenerateResource.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D_Lis_Service.ProjectInstaller.resources
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\appsettings.json
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\HC5D Lis Service.exe.config
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\HC5D Lis Service.exe
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\HC5D Lis Service.pdb
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\EntityFramework.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Buffers.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Memory.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Text.Json.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.ValueTuple.dll
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\EntityFramework.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Buffers.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Memory.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Text.Json.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\bin\Debug\System.ValueTuple.xml
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.AssemblyReference.cache
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D_Lis_Service.ProjectInstaller.resources
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D_Lis_Service.Service1.resources
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.GenerateResource.cache
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.CoreCompileInputs.cache
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.CopyComplete
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.exe
+C:\Users\nahom\Desktop\machine\HC5D\machine_integration\HC5D Lis Service\obj\Debug\HC5D Lis Service.pdb
